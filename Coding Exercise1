@@ -1,0 +1,23 @@
+package Exercise;
+
+public class campuslife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("6:00 am: Wake up , pray and recite Quran");
+		System.out.println("7:00 am: Take a bath and prepare");
+		System.out.println("8:00 am: Breakfast");
+		System.out.println("8:30 am: Prepare for classes and doing some research for the class before start the lesson");
+		System.out.println("10:30 am: Joining online classes");
+		System.out.println("1:00 pm- 2:30 pm: Take a break, lunch and perform prayer");
+		System.out.println("5:30 pm: End of class");
+		System.out.println("5:40 pm: Asr time");
+		System.out.println("6:00 pm: Do some exercise");
+		System.out.println("7:00 pm-7:40 pm:Maghrib time");
+		System.out.println("8:00 pm-10:00 pm: Study for programming");
+		System.out.println("10:15 pm: Perform Isya'");
+		System.out.println("11:00 pm :Sleep time");
+		
+	}
+
+}
